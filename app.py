@@ -1,6 +1,5 @@
 import streamlit as st
 import os
-import streamlit_option_menu as menu
 import pickle
 
 
